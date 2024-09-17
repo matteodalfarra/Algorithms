@@ -23,6 +23,7 @@ k = 4
 | 8      | 1     | 0     | 0     | 0     |
 | 9      | 1     | 0     | 0     | 1     |
 | 15     | 1     | 1     | 1     | 1     |
+
 Result = 9 (1001 in binary)
 
 Bit 0 is set in 7, 9, 9, and 15. Bit 3 is set in 12, 9, 8, 9, and 15. Only bits 0 and 3 qualify. The result is (1001)₂ = 9.
