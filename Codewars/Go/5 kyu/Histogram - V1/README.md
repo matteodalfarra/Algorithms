@@ -6,7 +6,7 @@ You are given a list of results from rolling a 6-sided die multiple times. Your 
 ### Example:
 Given the results:
 ```
-10, 5, 3, 1
+7, 3, 10, 1, 0, 5
 ```
 The output should be:
 ```
