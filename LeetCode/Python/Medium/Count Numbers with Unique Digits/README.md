@@ -53,10 +53,12 @@ We need to account for numbers with different lengths:
 ## Complexity
 **Time Complexity:**
 The time complexity is (O(n)), where `n` is the number of digits. This is because the algorithm iterates over each length from `1` to `n`, and for each length, it performs a loop that runs in constant time relative to `n`.
+
 ![alt text](image.png)
 
 **Space Complexity:**
 The space complexity is (O(1)) since we are using a constant amount of extra space regardless of the input size.
+
 ![alt text](image-1.png)
 
 ## Submission Detail
