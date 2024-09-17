@@ -1,7 +1,7 @@
 package kata
 
 func GetMiddle(s string) string {
-  n := len(s)
+  	n := len(s)
 	index := (len(s) - 1) / 2
 	char := ""
 	if (n % 2 == 0){

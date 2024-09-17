@@ -6,7 +6,7 @@ import (
 )
 
 func EncryptThis(s string) string {
-  		words := strings.Split(s, " ")
+	words := strings.Split(s, " ")
 
 	sEnc := ""
 

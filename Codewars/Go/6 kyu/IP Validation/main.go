@@ -25,13 +25,13 @@ func Is_valid_ip(ip string) bool {
 			return false
 		}
 
-        val, err := strconv.Atoi(octet)
-        if err != nil {
-            return false
-        }
-        if val > 255 || val < 0 {
-            return false
-        }
+		val, err := strconv.Atoi(octet)
+		if err != nil {
+			return false
+		}
+		if val > 255 || val < 0 {
+			return false
+		}
 	}
 	return true
 }
