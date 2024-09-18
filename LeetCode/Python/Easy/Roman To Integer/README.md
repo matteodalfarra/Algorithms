@@ -21,7 +21,7 @@ Roman numerals are represented by seven different symbols: I, V, X, L, C, D, and
   - X before L (50) and C (100) results in 40 and 90.
   - C before D (500) and M (1000) results in 400 and 900.
 
-### Example
+### Examples:
 **Input:**
 ```plaintext
 s = "III"
