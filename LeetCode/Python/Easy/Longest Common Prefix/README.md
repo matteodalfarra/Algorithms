@@ -26,3 +26,7 @@ strs = ["dog","racecar","car"]
 - `1 <= strs.length <= 200`
 - `0 <= strs[i].length <= 200`
 - `strs[i]` consists of only lowercase English letters.
+
+## Submission Detail
+- Runtime: **23 ms**
+- Memory Usage: **11.8 MB**
