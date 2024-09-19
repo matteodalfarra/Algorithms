@@ -57,5 +57,7 @@ Explanation: Your function should return `k = 5`, with the first five elements o
 
 ## Approach
 Since the input list is already sorted, my initial approach was to scan the elements and, upon finding a duplicate, move it to the end and shift the remaining elements left. While this method worked, it was not very efficient.
+
 To improve efficiency, I eliminated the shifting loop. As the order of non-unique elements is irrelevant, I used an `index` variable to track where to place unique values. Each time a unique value was found, it was placed at that position and the `index` was incremented.
+
 This approach reduces execution time by avoiding redundant manual shifting of elements.
