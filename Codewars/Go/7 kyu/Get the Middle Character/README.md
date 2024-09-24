@@ -1,4 +1,4 @@
-# Kata: Get the Middle Character
+# Kata: [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
 
 ## Description
 You are given a word, and your task is to return its middle character. If the word's length is odd, return the middle character. If the word's length is even, return the middle two characters.
