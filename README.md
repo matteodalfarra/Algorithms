@@ -10,3 +10,4 @@ This repository houses solutions to various algorithms, organized by platform an
 - C#
 - Python
 - Go
+- C++
