@@ -31,6 +31,7 @@ The solutions are organized into folders based on the programming language, and 
 - Python
 - C#
 - Go
+- C++
 
 [Codewars Profile](https://www.codewars.com/users/matteodalfarra)
 
