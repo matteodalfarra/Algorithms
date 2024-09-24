@@ -18,6 +18,9 @@ The solutions are organized into folders based on the programming language, and 
 │   ├── 5kyu/
 │   └── 8kyu/
 │   └── ...
+├── C++
+│   ├── 7 kyu/
+│   └── ...
 └── C#/
     ├── 4kyu/
     └── 6kyu/
